@@ -188,16 +188,16 @@ footer {
 .icone{
   display: flex;
   position: fixed;
-  bottom: 2dvh;   
-  left: 183dvh;  
-  width: 100px;
-  height: 100px;
+  bottom: 5dvh;   
+  left: 94dvw;  
+  width: 70px;
+  height: 70px;
   border-radius: 20%;
 }
 
 .icone img{
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
 }
 .icone {
   transition: background-color 0.3s ease;
